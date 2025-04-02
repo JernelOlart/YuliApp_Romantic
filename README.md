@@ -1,7 +1,7 @@
 # YuliApp
 
 ## Descripción
-YuliApp es una aplicación sencilla y romántica para macOS desarrollada en SwiftUI. Muestra un mensaje especial para Yuli con un diseño minimalista y un toque de amor. Además, permite abrir un chat de WhatsApp con un solo clic en el icono de un celular ubicado en la esquina superior derecha de la pantalla.
+YuliApp es una aplicación sencilla y romántica para macOS desarrollada en SwiftUI a petición de una individua jaja, puedes modificarla a tu gusto para tu amada y compilar. Muestra un mensaje especial para Yuli con un diseño minimalista y un toque de amor. Además, permite abrir un chat de WhatsApp con un solo clic en el icono de un celular ubicado en la esquina superior derecha de la pantalla.
 
 ## Características
 - Mensaje especial: "¡Hola, "Nombre de la afortunada jaja" 💖" con un diseño atractivo.
